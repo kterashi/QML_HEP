@@ -1,6 +1,6 @@
 # QML_HEP
 
-The python codes and relevant files used in arXiv:2002.09935 are provided here.
+The python codes and relevant files used in [arXiv:2002.09935](https://arxiv.org/abs/2002.09935) are provided here.
 
 ## QCL algorithm with Qulacs simulator:
 The [Qulacs](https://github.com/qulacs/qulacs) simulator has to be first installed. The original implementation of the QCL algorithm is taken from [Quantum Native Dojo](https://github.com/qulacs/quantum-native-dojo) (in Japanese) and then modified for this study.
