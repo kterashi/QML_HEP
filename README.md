@@ -13,7 +13,7 @@ The [Qulacs](https://github.com/qulacs/qulacs) simulator has to be first install
 The qcl_classification.py and qcl_utils.py in Quantum Native Dojo are licensed under the BSD 3-Clause "New" or "Revised" License. 
 
 ## VQC algorithm with IBM Qiskit:
-The IBM [Qiskit](https://github.com/Qiskit/qiskit) framework has to be first installed. The VQC codes used for IBM Q quantum machine and QASM simulator are provided separately.
+The IBM [Qiskit](https://github.com/Qiskit/qiskit) framework has to be first installed. The VQC algorithm provided in the [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) framework is used. The VQC codes used with the IBM Q quantum machine and QASM simulator are provided separately.
 
 - run_vqc_qc_loop.sh : shell script to run VQC on IBM Q machine
 - vqc_qc.py : main python script to run on IBM Q machine
