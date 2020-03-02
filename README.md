@@ -19,3 +19,6 @@ The IBM [Qiskit](https://github.com/Qiskit/qiskit) framework has to be first ins
 - vqc_qc.py : main python script to run on IBM Q machine
 - run_vqc_sim_loop.sh : shell script to run VQC on QASM simulator
 - vqc_sim.py : main python script to run on QASM simulator
+
+### Revision history
+- v1.0.0 : version used to arXiv:2002.09935 v1.0 
